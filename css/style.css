@@ -1,10 +1,14 @@
 body {
-	background: #08FCCF;
+	background: #45E873;
 
 }
 h1 {
+	display: block;
+	text-align: center;
 	margin: 0 auto;
+	padding: 20px 30px;
 }
 p {
 	margin: 0 auto;
+	padding: 20px 30px;
 }
